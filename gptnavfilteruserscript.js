@@ -1,8 +1,10 @@
 // ==UserScript==
-// @name         chatGPT nav Filter
+// @name         chatGPT nav menu filter
+// @name:zh      chatGPT左方列表遮罩
 // @namespace    openai
-// @version      0.3
-// @description  Filter anchors in nav elements by keyword inputted by user in real time.
+// @version      0.1
+// @author       https://github.com/jctneko/
+// @description  Filter anchors in nav elements by keyword inputted by user in real time. ![Screenshot](https://imgur.com/qirXfX9.png)
 // @match        https://chat.openai.com/*
 // @run-at       document-idle
 // ==/UserScript==
