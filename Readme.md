@@ -6,7 +6,7 @@ This user script allowing users to filter navigation links in real time based on
 
 ## Installation
 
-Install the user script from [Greasy Fork page](https://greasyfork.org/zh-TW/scripts/466117-chatgpt-nav-filter) using a user script manager extension like Tampermonkey.
+Install the user script from [Greasy Fork page](https://greasyfork.org/zh-TW/scripts/466117-chatgpt-nav-menu-filter) using a user script manager extension like Tampermonkey.
 
 ## Usage
 
@@ -15,7 +15,7 @@ Install the user script from [Greasy Fork page](https://greasyfork.org/zh-TW/scr
 3. Enter a keyword to filter the navigation links.
 4. The navs will update in real time.
 
-Note: Report any issues here or [Greasy Fork page](https://greasyfork.org/zh-TW/scripts/466117-chatgpt-nav-filter).
+Note: Report any issues here or [Greasy Fork page](https://greasyfork.org/zh-TW/scripts/466117-chatgpt-nav-menu-filter/feedback).
 
 ## License
 
