@@ -7,6 +7,7 @@
 // @description  Filter anchors in nav elements by keyword inputted by user in real time. ![Screenshot](https://imgur.com/qirXfX9.png)
 // @match        https://chat.openai.com/*
 // @run-at       document-idle
+// @license      You can modify as long as you credit me
 // ==/UserScript==
 
 /*
