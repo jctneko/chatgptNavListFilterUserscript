@@ -4,7 +4,7 @@
 // @namespace    openai
 // @version      0.1
 // @author       https://github.com/jctneko/
-// @description  Filter anchors in nav elements by keyword inputted by user in real time. ![Screenshot](https://imgur.com/qirXfX9.png)
+// @description  Filter anchors in nav elements by keyword inputted by user in real time.
 // @match        https://chat.openai.com/*
 // @run-at       document-idle
 // @license      You can modify as long as you credit me
