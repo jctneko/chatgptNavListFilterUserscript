@@ -1,6 +1,8 @@
 # chatGPT nav Filter
 
 This user script allowing users to filter navigation links in real time based on a keyword input.
+![Screenshot](https://imgur.com/qirXfX9.png)
+
 
 ## Installation
 
